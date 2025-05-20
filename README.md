@@ -1,7 +1,7 @@
 
 
 <!-- markdownlint-disable -->
-<a href="https://cpco.io/homepage"><img src=".github/banner.png?raw=true" alt="Project Banner"/></a><br/>
+<a href="https://cpco.io/homepage"><img src="https://github.com/cloudposse/example-github-action-composite/blob/main/.github/banner.png?raw=true" alt="Project Banner"/></a><br/>
     <p align="right">
 <a href="https://github.com/cloudposse/example-github-action-composite/releases/latest"><img src="https://img.shields.io/github/release/cloudposse/example-github-action-composite.svg" alt="Latest Release"/></a><a href="https://slack.cloudposse.com"><img src="https://slack.cloudposse.com/badge.svg" alt="Slack Community"/></a></p>
 <!-- markdownlint-restore -->
@@ -172,7 +172,7 @@ All other trademarks referenced herein are the property of their respective owne
 
 
 ---
-Copyright © 2017-2024 [Cloud Posse, LLC](https://cpco.io/copyright)
+Copyright © 2017-2025 [Cloud Posse, LLC](https://cpco.io/copyright)
 
 
 <a href="https://cloudposse.com/readme/footer/link?utm_source=github&utm_medium=readme&utm_campaign=cloudposse/example-github-action-composite&utm_content=readme_footer_link"><img alt="README footer" src="https://cloudposse.com/readme/footer/img"/></a>
