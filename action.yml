@@ -19,7 +19,7 @@ inputs:
       GHES, you can pass a personal access token for github.com if you are experiencing rate limiting.
     default: ${{ github.server_url == 'https://github.com' && github.token || '' }}
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'src/index.js'
   post: 'src/post.js'
 
